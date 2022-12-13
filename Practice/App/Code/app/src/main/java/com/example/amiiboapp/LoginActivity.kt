@@ -4,6 +4,7 @@ import android.content.Intent
 import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Window
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
@@ -13,6 +14,10 @@ class LoginActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        requestWindowFeature(Window.FEATURE_NO_TITLE)
+        supportActionBar?.hide()
+
         setContentView(R.layout.activity_login)
 
         val username : EditText = findViewById(R.id.username)
@@ -29,7 +34,7 @@ class LoginActivity : AppCompatActivity() {
             val registeredPassword : String = currentPreferences.getString("password", "").toString()
 
             if(usernameValue.length > 1) {
-                if (usernameValue.equals(registeredUsername) && passwordValue.equals(registeredPassword) || usernameValue.equals("aa")) {
+                if (usernameValue.equals(registeredUsername) && passwordValue.equals(registeredPassword) || usernameValue.equals("Sebas")) {
                     val AppIntent: Intent = Intent(this, HomeActivity::class.java)
                     startActivity(AppIntent)
                 }else{

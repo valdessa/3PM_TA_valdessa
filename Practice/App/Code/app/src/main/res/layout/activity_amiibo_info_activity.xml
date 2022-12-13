@@ -2,6 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/background_gradient"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".AmiiboInfoActiviy">
@@ -12,8 +13,10 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="105dp"
-        android:textColor="#000"
+        android:textColor="#CCCCFF"
         android:textSize="30sp"
+        android:textStyle="bold"
+        android:textAllCaps="true"
         />
 
     <ImageView
@@ -26,22 +29,46 @@
         android:contentDescription="TODO" />
 
     <TextView
-        android:id="@+id/dataSaga"
+        android:id="@+id/dataSagaText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/imageView"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"
+        android:text="GAME SAGA:"
+        android:textAllCaps="false"
+        android:textColor="#FFC107"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/dataSaga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dataSagaText"
+        android:layout_centerHorizontal="true"
         android:textStyle="bold"
         android:textSize="20sp"
         />
+
+    <TextView
+        android:id="@+id/dataReleaseText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dataSaga"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="RELEASE DATE:"
+        android:textColor="#FFC107"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
 
     <TextView
         android:id="@+id/dataRelease"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@id/dataSaga"
+        android:layout_below="@id/dataReleaseText"
         android:layout_centerHorizontal="true"
         android:textSize="20sp"
         android:textStyle="bold" />

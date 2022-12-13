@@ -5,59 +5,68 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background"
     tools:context=".LoginActivity">
 
+
+
+
     <TextView
-        android:layout_width="match_parent"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:background="#19aedc"
         android:gravity="center"
-        android:text="Login Form"
         android:padding="10dp"
-        android:textColor="#fff"
+        android:text="Login Form"
+        android:textColor="#FFF7F7"
         android:textSize="24sp"
         android:textStyle="bold"
-        />
+        tools:ignore="TextContrastCheck" />
 
     <EditText
         android:id="@+id/username"
-        android:maxLines="1"
-        android:layout_width="match_parent"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:hint="Username"
-        />
+        android:maxLines="1"
+        android:minHeight="48dp" />
 
     <EditText
         android:id="@+id/password"
-        android:inputType="textPassword"
-        android:maxLines="1"
-        android:layout_width="match_parent"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:hint="Password"
-        />
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:minHeight="48dp" />
 
     <!-- Align Buttons Horizontally-->
 
     <LinearLayout
-        android:layout_marginTop="30dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-    
-    <Button
-        android:id="@+id/login"
-        android:text="Login"
-        android:layout_width="0dp"
-        android:layout_weight="1"
-        android:layout_height="wrap_content" />
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
 
-    <Button
-        android:id="@+id/register"
-        android:text="Register"
-        android:layout_width="0dp"
-        android:layout_weight="1"
-        android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/login"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:backgroundTint="#19ADDB"
+            android:text="Login" />
+
+        <Button
+            android:id="@+id/register"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:backgroundTint="#19ADDB"
+            android:text="Register" />
 
 
     </LinearLayout>
