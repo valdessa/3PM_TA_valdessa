@@ -8,11 +8,12 @@
     tools:context=".HomeActivity">
 
     <TextView
-        android:textStyle="bold"
-        android:textSize="24sp"
-        android:layout_centerInParent="true"
-        android:text="Amiibo List:"
+        android:id="@+id/characters"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/amiibo_list"
+        android:textSize="24sp"
+        android:textStyle="bold" />
 
 </RelativeLayout>

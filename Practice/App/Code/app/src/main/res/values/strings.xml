@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AmiiboApp</string>
+    <string name="amiibo_list">Amiibo List:</string>
 </resources>
