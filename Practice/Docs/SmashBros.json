@@ -1,0 +1,550 @@
+{
+  "amiibo": [
+    {
+      "Name": "Mario",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00000000-00000002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Dr. Mario",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00000100-00190002.png",
+      "Release": "2015-07-17"
+    },
+    {
+      "Name": "Luigi",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00010000-000c0002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Peach",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00020000-00010002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Yoshi",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00030000-00020002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Rosalina & Luma",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00040100-00130002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "Bowser",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00050000-00140002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "Bowser Jr.",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00060000-00150002.png",
+      "Release": "2015-07-17"
+    },
+    {
+      "Name": "Wario",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00070000-001a0002.png",
+      "Release": "2015-04-29"
+    },
+    {
+      "Name": "Donkey Kong",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00080000-00030002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Diddy Kong",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00090000-000d0002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Daisy",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00130000-037a0002.png",
+      "Release": "2019-04-12"
+    },
+    {
+      "Name": "Piranha Plant",
+      "Series": "Super Mario",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00240000-038d0002.png",
+      "Release": "2019-02-15"
+    },
+    {
+      "Name": "King K. Rool",
+      "Series": "Donkey Kong",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00c00000-037b0002.png",
+      "Release": "2019-02-15"
+    },
+    {
+      "Name": "Link",
+      "Series": "The Legend of Zelda",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01000000-00040002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Young Link",
+      "Series": "The Legend of Zelda",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01000000-037c0002.png",
+      "Release": "2019-04-12"
+    },
+    {
+      "Name": "Toon Link",
+      "Series": "The Legend of Zelda",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01000100-00160002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "Zelda",
+      "Series": "The Legend of Zelda",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-000e0002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Sheik",
+      "Series": "The Legend of Zelda",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010100-00170002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "Ganondorf",
+      "Series": "The Legend of Zelda",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01020100-001b0002.png",
+      "Release": "2015-06-11"
+    },
+    {
+      "Name": "Villager",
+      "Series": "Animal Crossing",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01800000-00080002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Isabelle",
+      "Series": "Animal Crossing",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01810000-037d0002.png",
+      "Release": "2019-07-19"
+    },
+    {
+      "Name": "Fox",
+      "Series": "Star Fox",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_05800000-00050002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Falco",
+      "Series": "Star Fox",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_05810000-001c0002.png",
+      "Release": "2015-11-05"
+    },
+    {
+      "Name": "Wolf",
+      "Series": "Star Fox",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_05840000-037e0002.png",
+      "Release": "2018-12-07"
+    },
+    {
+      "Name": "Samus",
+      "Series": "Metroid",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_05c00000-00060002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Zero Suit Samus",
+      "Series": "Metroid",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_05c00100-001d0002.png",
+      "Release": "2015-06-11"
+    },
+    {
+      "Name": "Ridley",
+      "Series": "Metroid",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_05c20000-037f0002.png",
+      "Release": "2018-12-07"
+    },
+    {
+      "Name": "Dark Samus",
+      "Series": "Metroid",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_05c30000-03800002.png",
+      "Release": "2020-01-17"
+    },
+    {
+      "Name": "Captain Falcon",
+      "Series": "F-Zero",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_06000000-00120002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Olimar",
+      "Series": "Pikmin",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_06400100-001e0002.png",
+      "Release": "2015-07-17"
+    },
+    {
+      "Name": "Little Mac",
+      "Series": "Punch Out",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_06c00000-000f0002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Wii Fit Trainer",
+      "Series": "Wii Fit",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07000000-00070002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Pit",
+      "Series": "Kid Icarus",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07400000-00100002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Dark Pit",
+      "Series": "Kid Icarus",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07410000-00200002.png",
+      "Release": "2015-06-11"
+    },
+    {
+      "Name": "Palutena",
+      "Series": "Kid Icarus",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07420000-001f0002.png",
+      "Release": "2015-06-11"
+    },
+    {
+      "Name": "Mr. Game & Watch",
+      "Series": "Classic Nintendo",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07800000-002d0002.png",
+      "Release": "2015-10-29"
+    },
+    {
+      "Name": "R.O.B. - Famicom",
+      "Series": "Classic Nintendo",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07810000-002e0002.png",
+      "Release": "2015-10-29"
+    },
+    {
+      "Name": "R.O.B. - NES",
+      "Series": "Classic Nintendo",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07810000-00330002.png",
+      "Release": null
+    },
+    {
+      "Name": "Duck Hunt",
+      "Series": "Classic Nintendo",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07820000-002f0002.png",
+      "Release": "2015-10-29"
+    },
+    {
+      "Name": "Ice Climbers",
+      "Series": "Classic Nintendo",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_078f0000-03810002.png",
+      "Release": "2019-02-15"
+    },
+    {
+      "Name": "Mii Brawler",
+      "Series": "Mii",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07c00000-00210002.png",
+      "Release": "2015-09-10"
+    },
+    {
+      "Name": "Mii Swordfighter",
+      "Series": "Mii",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07c00100-00220002.png",
+      "Release": "2015-09-10"
+    },
+    {
+      "Name": "Mii Gunner",
+      "Series": "Mii",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_07c00200-00230002.png",
+      "Release": "2015-09-10"
+    },
+    {
+      "Name": "Inkling",
+      "Series": "Splatoon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_08000100-03820002.png",
+      "Release": "2018-12-07"
+    },
+    {
+      "Name": "Min Min",
+      "Series": "ARMS",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a400000-041d0002.png",
+      "Release": "2022-04-29"
+    },
+    {
+      "Name": "Ivysaur",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19020000-03830002.png",
+      "Release": "2019-09-20"
+    },
+    {
+      "Name": "Charizard",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19060000-00240002.png",
+      "Release": "2015-04-29"
+    },
+    {
+      "Name": "Squirtle",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19070000-03840002.png",
+      "Release": "2019-09-20"
+    },
+    {
+      "Name": "Pikachu",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19190000-00090002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Jigglypuff",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19270000-00260002.png",
+      "Release": "2015-04-29"
+    },
+    {
+      "Name": "Mewtwo",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19960000-023d0002.png",
+      "Release": "2015-10-29"
+    },
+    {
+      "Name": "Pichu",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19ac0000-03850002.png",
+      "Release": "2019-07-19"
+    },
+    {
+      "Name": "Lucario",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1ac00000-00110002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "Greninja",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1b920000-00250002.png",
+      "Release": "2015-04-29"
+    },
+    {
+      "Name": "Incineroar",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1bd70000-03860002.png",
+      "Release": "2019-11-08"
+    },
+    {
+      "Name": "Pokemon Trainer",
+      "Series": "Pokemon",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1d400000-03870002.png",
+      "Release": "2019-07-19"
+    },
+    {
+      "Name": "Kirby",
+      "Series": "Kirby",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f000000-000a0002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Meta Knight",
+      "Series": "Kirby",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f010000-00270002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "King Dedede",
+      "Series": "Kirby",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f020000-00280002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "Marth",
+      "Series": "Fire Emblem",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21000000-000b0002.png",
+      "Release": "2014-12-06"
+    },
+    {
+      "Name": "Ike",
+      "Series": "Fire Emblem",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21010000-00180002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "Lucina",
+      "Series": "Fire Emblem",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21020000-00290002.png",
+      "Release": "2015-04-29"
+    },
+    {
+      "Name": "Robin",
+      "Series": "Fire Emblem",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21030000-002a0002.png",
+      "Release": "2015-04-29"
+    },
+    {
+      "Name": "Roy",
+      "Series": "Fire Emblem",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21040000-02520002.png",
+      "Release": "2016-04-28"
+    },
+    {
+      "Name": "Corrin",
+      "Series": "Fire Emblem",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21050000-025a0002.png",
+      "Release": "2017-07-21"
+    },
+    {
+      "Name": "Corrin - Player 2",
+      "Series": "Fire Emblem",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21050100-03630002.png",
+      "Release": "2017-07-21"
+    },
+    {
+      "Name": "Chrom",
+      "Series": "Fire Emblem",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21080000-03880002.png",
+      "Release": "2019-11-08"
+    },
+    {
+      "Name": "Byleth",
+      "Series": "Fire Emblem",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_210b0000-03a50002.png",
+      "Release": "2021-03-26"
+    },
+    {
+      "Name": "Shulk",
+      "Series": "Xenoblade",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22400000-002b0002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "Ness",
+      "Series": "Earthbound",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22800000-002c0002.png",
+      "Release": "2015-04-29"
+    },
+    {
+      "Name": "Lucas",
+      "Series": "Earthbound",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22810000-02510002.png",
+      "Release": "2015-12-17"
+    },
+    {
+      "Name": "Sonic",
+      "Series": "Sonic",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_32000000-00300002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "Bayonetta",
+      "Series": "Bayonetta",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_32400000-025b0002.png",
+      "Release": "2017-07-21"
+    },
+    {
+      "Name": "Bayonetta - Player 2",
+      "Series": "Bayonetta",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_32400100-03640002.png",
+      "Release": "2017-07-21"
+    },
+    {
+      "Name": "Pac-Man",
+      "Series": "Pac-man",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_33400000-00320002.png",
+      "Release": "2015-04-29"
+    },
+    {
+      "Name": "Mega Man",
+      "Series": "Megaman",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34800000-00310002.png",
+      "Release": "2015-01-22"
+    },
+    {
+      "Name": "Mega Man - Gold Edition",
+      "Series": "Megaman",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34800000-02580002.png",
+      "Release": null
+    },
+    {
+      "Name": "Ryu",
+      "Series": "Street fighter",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34c00000-02530002.png",
+      "Release": "2016-04-28"
+    },
+    {
+      "Name": "Ken",
+      "Series": "Street fighter",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34c10000-03890002.png",
+      "Release": "2019-04-12"
+    },
+    {
+      "Name": "Cloud",
+      "Series": "Final Fantasy",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_36000000-02590002.png",
+      "Release": "2017-07-21"
+    },
+    {
+      "Name": "Cloud - Player 2",
+      "Series": "Final Fantasy",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_36000100-03620002.png",
+      "Release": "2017-07-21"
+    },
+    {
+      "Name": "Hero",
+      "Series": "Dragon Quest",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_36400000-03a20002.png",
+      "Release": "2020-09-25"
+    },
+    {
+      "Name": "Snake",
+      "Series": "Metal Gear Solid",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_37800000-038a0002.png",
+      "Release": "2019-09-20"
+    },
+    {
+      "Name": "Simon",
+      "Series": "Castlevania",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_37c00000-038b0002.png",
+      "Release": "2019-11-08"
+    },
+    {
+      "Name": "Richter",
+      "Series": "Castlevania",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_37c10000-038c0002.png",
+      "Release": "2020-01-17"
+    },
+    {
+      "Name": "Joker",
+      "Series": "Persona",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3a000000-03a10002.png",
+      "Release": "2020-09-25"
+    },
+    {
+      "Name": "Banjo & Kazooie",
+      "Series": "Banjo Kazooie",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3b400000-03a30002.png",
+      "Release": "2021-03-26"
+    },
+    {
+      "Name": "Terry",
+      "Series": "Fatal Fury",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3c800000-03a40002.png",
+      "Release": "2021-03-26"
+    },
+    {
+      "Name": "Steve",
+      "Series": "Minecraft",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3dc00000-04220002.png",
+      "Release": "2022-09-09"
+    },
+    {
+      "Name": "Alex",
+      "Series": "Minecraft",
+      "Image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3dc10000-04230002.png",
+      "Release": "2022-09-09"
+    }
+  ]
+}
