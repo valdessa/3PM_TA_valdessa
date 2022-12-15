@@ -54,7 +54,7 @@ class HomeActivity : AppCompatActivity() {
     }
 
     fun getSmashCharacter(callback: (MutableList<SmashBrosEntity>) -> Unit){
-        val url = "https:///smashbrosprueba.free.beeceptor.com/characters"
+        val url = "https://smashbrosfighters.free.beeceptor.com/characters"
 
         val jsonObjectRequest = JsonObjectRequest(
             Request.Method.GET, url, null, {
