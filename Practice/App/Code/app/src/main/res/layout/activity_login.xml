@@ -22,6 +22,7 @@
         android:textColor="#FFF7F7"
         android:textSize="24sp"
         android:textStyle="bold"
+        android:layout_marginTop="100dp"
         tools:ignore="TextContrastCheck" />
 
     <EditText
@@ -69,6 +70,23 @@
             android:text="Register" />
 
 
+
     </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:id="@+id/AboutUsButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:backgroundTint="#19ADDB"
+            android:text="About Us" />
+    </LinearLayout>
+
 
 </LinearLayout>

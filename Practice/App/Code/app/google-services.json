@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20982697050",
+    "project_id": "amiiboapp-270e1",
+    "storage_bucket": "amiiboapp-270e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20982697050:android:f3260e43d305daae06dc63",
+        "android_client_info": {
+          "package_name": "com.example.amiiboapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20982697050-q8iq70kkesk9oc30mve2vq3889ot10sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3fuihQ9VDIJVOC7q2oSaEKYYblh-Q3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20982697050-q8iq70kkesk9oc30mve2vq3889ot10sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

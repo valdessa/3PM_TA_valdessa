@@ -36,13 +36,15 @@ class RegisterActivity : AppCompatActivity() {
                 currentEditor.putString("username", usernameValue)
                 currentEditor.putString("password", passwordValue)
                 currentEditor.apply()
-                Toast.makeText(this, HtmlCompat.fromHtml("<font color= '#228B22'> <b>" + "USER REGISTERED :D" + "</b></font>", 0),
+                Toast.makeText(this, HtmlCompat.fromHtml("<font color= '#228B22'> <b>" +
+                        "USER REGISTERED :D" + "</b></font>", 0),
                     Toast.LENGTH_SHORT).show()
                 //Toast.makeText(this, "USER REGISTERED :D", Toast.LENGTH_LONG).show()
                 val intent : Intent = Intent(this, LoginActivity::class.java)
                 startActivity(intent)
             }else{
-                Toast.makeText(this, HtmlCompat.fromHtml("<font color= '#FF2400'> <b>" + "ENTER A VALID VALUE!" + "</b></font>", 0),
+                Toast.makeText(this, HtmlCompat.fromHtml("<font color= '#FF2400'> <b>" +
+                        "ENTER A VALID VALUE!" + "</b></font>", 0),
                     Toast.LENGTH_SHORT).show()
                 //Toast.makeText(this, "Enter Value in the fields!", Toast.LENGTH_LONG).show()
             }

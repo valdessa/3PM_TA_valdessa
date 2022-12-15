@@ -1,8 +1,10 @@
 package com.example.amiiboapp
 
+import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Window
+import android.widget.Button
 import com.example.amiiboapp.databinding.ActivityAmiiboInfoActivityBinding
 import com.squareup.picasso.Picasso
 
@@ -26,7 +28,11 @@ class AmiiboInfoActiviy : AppCompatActivity() {
         binding.dataSaga.text = intent.getStringExtra("series")
         binding.dataRelease.text = intent.getStringExtra("release")
 
+        val goBack : Button = findViewById(R.id.goBackButton)
 
+        goBack.setOnClickListener(){
+            onBackPressed()
+        }
 
     }
 }

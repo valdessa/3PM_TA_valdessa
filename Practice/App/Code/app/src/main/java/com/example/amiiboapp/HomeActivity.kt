@@ -57,24 +57,21 @@ class HomeActivity : AppCompatActivity() {
         val url = "https:///smashbrosprueba.free.beeceptor.com/characters"
 
         val jsonObjectRequest = JsonObjectRequest(
-            Request.Method.GET, url, null, Response.Listener {
+            Request.Method.GET, url, null, {
                     response ->
                 Log.ERROR
 
-                //Parsear JSON:
+                //Parsing JSON:
                 val jsonList = response.getJSONArray("amiibo").toString()
                 val mutablelistType = object : TypeToken<MutableList<SmashBrosEntity>>(){}.type
                 val CharactersList = Gson().fromJson<MutableList<SmashBrosEntity>>(jsonList, mutablelistType)
 
                 callback(CharactersList)
             },
-            Response.ErrorListener { error ->
+            { error ->
                 // TODO: Handle error
                 Log.ERROR
             }
-            // Access the RequestQueue through your singleton class.
-            //MySingleton.getInstance(this).addToRequestQueue.add(jsonObjectRequest)
-
         )
 
         val requestQueue = Volley.newRequestQueue(this)
